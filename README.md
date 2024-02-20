@@ -1,1 +1,1 @@
-# Beauty_Parlour
+# Church Management System
